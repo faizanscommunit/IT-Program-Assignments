@@ -4,7 +4,7 @@
 In this repository, I have uploaded the Solved 45 Questions Assignment given by Governor Sindth IT Program
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://faizanscommunit.pythonanywhere.com/">
     <img src="https://skillicons.dev/icons?i=git,linkedin,html,ts,vscode" />
   </a>
 </p>
