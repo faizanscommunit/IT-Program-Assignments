@@ -7,5 +7,5 @@ let favourit_mode = [
 ]
 
 for (let name of favourit_mode){
-    console.log('I would like to own a '+name+'.')
+    console.log(`I would like to own a ${name}.`)
 }
