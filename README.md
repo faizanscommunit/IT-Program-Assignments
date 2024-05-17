@@ -1,7 +1,7 @@
 
 # Solution of 45 Questions Assignment 
 
-In this repository, I have uploaded the Solved 45 Questions Assignment given by Governor Sindth IT Program
+In this repository, I have uploaded the Solved 45 Questions Assignment given by the Governor Sindh IT Program (GIAIC)
 
 <p align="center">
   <a href="https://faizanscommunit.pythonanywhere.com/">
