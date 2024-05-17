@@ -6,11 +6,11 @@ let relatives = [
     'Fatima',
 ]
 
-console.log('Mehtod 01');
+console.log('Method 01');
 for (let relative of relatives){
     console.log('Hi ', relative, ", You are invited to today's Dinner at my Home!")
 }
-console.log('Mehtod 02');
+console.log('Method 02');
 for (let relative=0; relative<relatives.length; relative++){
     console.log('Hi ', relatives[relative], ", You are invited to today's Dinner at my Home!")
 }
