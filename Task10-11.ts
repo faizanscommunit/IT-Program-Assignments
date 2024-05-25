@@ -6,7 +6,3 @@ const friends = ['Shaheer', 'Fahad', 'Rafay', 'Yousha']
 for (let friend of friends){
     console.log(friend)
 }
-
-
-
-export{}
