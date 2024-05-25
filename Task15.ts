@@ -17,5 +17,5 @@ let newGuest:string = 'Muhammad Rayyan'
 relatives[relatives.indexOf(cantCome)] = newGuest;
 // • Print a second set of invitation messages, one for each person who is still in your list.
 for (let name of relatives){
-    console.log('Hi, '+name+" You are invited to today's Dinner at my Home!")
+    console.log(`Hi ${name}, You are invited to today's Dinner at my Home!`)
 }
