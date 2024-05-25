@@ -5,7 +5,3 @@ let person_name:string = '\n\t  Muhammad Faizan  \n\t'
 console.log(person_name)
 // Name without Whitespace
 console.log(person_name.trim())
-
-
-
-export{}
