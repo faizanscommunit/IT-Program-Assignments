@@ -10,9 +10,11 @@ for (let relative of relatives){
     console.log(`Hi, ${relative} You are invited to today's Dinner at my Home!`)
 }
 // • Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
-console.log(`${relatives[2]}, can't come to dinner!`)
+let cantCome = 'Hassan';
+console.log(`${cantCome}, can't come to dinner!`)
 // • Modify your list, replacing the name of the guest who can’t make it with the name of the new person you are inviting.
-relatives[2] = 'Muhammad Rayyan'
+let newGuest:string = 'Muhammad Rayyan'
+relatives[relatives.indexOf(cantCome)] = newGuest;
 // • Print a second set of invitation messages, one for each person who is still in your list.
 for (let name of relatives){
     console.log('Hi, '+name+" You are invited to today's Dinner at my Home!")
